@@ -1,0 +1,18 @@
+C:\Users\Dima\Documents\Expression\Blend 4\Projects\CitiesAndWays\CitiesAndWays\bin\Debug\CitiesAndWays.exe
+C:\Users\Dima\Documents\Expression\Blend 4\Projects\CitiesAndWays\CitiesAndWays\bin\Debug\CitiesAndWays.pdb
+C:\Users\Dima\Documents\Expression\Blend 4\Projects\CitiesAndWays\CitiesAndWays\obj\Debug\MainWindow.baml
+C:\Users\Dima\Documents\Expression\Blend 4\Projects\CitiesAndWays\CitiesAndWays\obj\Debug\MainWindow.g.cs
+C:\Users\Dima\Documents\Expression\Blend 4\Projects\CitiesAndWays\CitiesAndWays\obj\Debug\App.g.cs
+C:\Users\Dima\Documents\Expression\Blend 4\Projects\CitiesAndWays\CitiesAndWays\obj\Debug\CitiesAndWays_MarkupCompile.cache
+C:\Users\Dima\Documents\Expression\Blend 4\Projects\CitiesAndWays\CitiesAndWays\obj\Debug\CitiesAndWays.g.resources
+C:\Users\Dima\Documents\Expression\Blend 4\Projects\CitiesAndWays\CitiesAndWays\obj\Debug\CitiesAndWays.exe
+C:\Users\Dima\Documents\Expression\Blend 4\Projects\CitiesAndWays\CitiesAndWays\obj\Debug\CitiesAndWays.pdb
+D:\Documents\Visual Studio 2010\Projects\CitiesAndWays\CitiesAndWays\obj\Debug\CitiesAndWays.exe
+D:\Documents\Visual Studio 2010\Projects\CitiesAndWays\CitiesAndWays\obj\Debug\CitiesAndWays.pdb
+D:\Documents\Visual Studio 2010\Projects\CitiesAndWays\CitiesAndWays\bin\Debug\CitiesAndWays.exe
+D:\Documents\Visual Studio 2010\Projects\CitiesAndWays\CitiesAndWays\bin\Debug\CitiesAndWays.pdb
+D:\Documents\Visual Studio 2010\Projects\CitiesAndWays\CitiesAndWays\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2010\Projects\CitiesAndWays\CitiesAndWays\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2010\Projects\CitiesAndWays\CitiesAndWays\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2010\Projects\CitiesAndWays\CitiesAndWays\obj\Debug\CitiesAndWays_MarkupCompile.cache
+D:\Documents\Visual Studio 2010\Projects\CitiesAndWays\CitiesAndWays\obj\Debug\CitiesAndWays.g.resources

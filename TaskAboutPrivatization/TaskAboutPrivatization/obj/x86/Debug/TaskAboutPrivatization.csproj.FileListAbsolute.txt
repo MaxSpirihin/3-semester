@@ -1,0 +1,4 @@
+d:\documents\visual studio 2010\Projects\TaskAboutPrivatization\TaskAboutPrivatization\bin\Debug\TaskAboutPrivatization.exe
+d:\documents\visual studio 2010\Projects\TaskAboutPrivatization\TaskAboutPrivatization\bin\Debug\TaskAboutPrivatization.pdb
+d:\documents\visual studio 2010\Projects\TaskAboutPrivatization\TaskAboutPrivatization\obj\x86\Debug\TaskAboutPrivatization.exe
+d:\documents\visual studio 2010\Projects\TaskAboutPrivatization\TaskAboutPrivatization\obj\x86\Debug\TaskAboutPrivatization.pdb

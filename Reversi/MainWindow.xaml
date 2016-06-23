@@ -1,0 +1,72 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+	x:Class="Reversi.MainWindow"
+	x:Name="Window"
+	Title="Реверси"
+	Width="510" Height="650">
+
+    <DockPanel Background="Black">
+        <Canvas DockPanel.Dock="Bottom" Height="10" Background="Black" VerticalAlignment="Bottom" Width="484"/>
+        <Canvas DockPanel.Dock="Top" Height="115">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FF664B4B" Offset="0.819"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+
+            <TextBlock x:Name="FirstPlayer" Canvas.Left="322" TextWrapping="Wrap" Canvas.Top="40" Width="100" Height="23" FontSize="18.667" FontFamily="Kristen ITC" Text="Computer"/>
+            <TextBlock x:Name="SecondPlayer" Canvas.Left="321.697" TextWrapping="Wrap" Text="Player" Height="23" Canvas.Top="70" FontSize="18.667" FontFamily="Kristen ITC" Width="79.543"/>
+            <TextBlock x:Name="Computer" FontSize="24" Canvas.Left="440" TextWrapping="Wrap" Text="" Canvas.Top="31.076" Width="30"/>
+            <TextBlock x:Name="Player" FontSize="24" Canvas.Left="440" TextWrapping="Wrap" Text="" Canvas.Top="61.076" Width="30"/>
+            <Menu BorderThickness="0" Height="21" Width="72" Background="RosyBrown">
+                <MenuItem BorderThickness="0" Header="New Game" Height="21" Width="72" Background="RosyBrown">
+                    <MenuItem BorderThickness="0" Header="Single Game" Click="SingleGame_Clicked" Background="RosyBrown"/>
+                    <MenuItem BorderThickness="0" Header="Two Players" Click="TwoPlayers_Clicked" Background="RosyBrown"/>
+                </MenuItem>
+            </Menu>
+            <Menu BorderThickness="0" Height="21" Canvas.Left="72" Width="57">
+                <MenuItem BorderThickness="0" Header="_Options" Width="57" Height="21" Background="RosyBrown">
+                    <MenuItem BorderThickness="0" Header="Design" VerticalAlignment="Top" HorizontalAlignment="Left" Height="21" Background="RosyBrown">
+                        <MenuItem BorderThickness="0" Header="Standard" Background="RosyBrown" Click="FirstDesign_Chousen"/>
+                        <MenuItem BorderThickness="0" Header="Classic" Background="RosyBrown" Click="SecondDesign_Chousen"/>
+                        <MenuItem BorderThickness="0" Header="Retro" Background="RosyBrown" Click="Thirddesign_Chousen"/>
+                        <MenuItem BorderThickness="0" Header="Gold-silver" Background="RosyBrown" Click="Forthdesign_Chousen"/>
+                        <MenuItem BorderThickness="0" Header="Random" Background="RosyBrown" Click="RandomDesign_Chousen"/>
+                    </MenuItem>
+                                  </MenuItem>
+            </Menu>
+            <TextBlock x:Name="TittleText" TextAlignment="Center" Canvas.Left="200" TextWrapping="Wrap" Width="294.303" Height="36" FontSize="24" Text="Single Game" FontFamily="Showcard Gothic" Canvas.Top="-3" />
+            <Button Click="AboutClicked" BorderThickness="0" Content="About" Canvas.Left="129" Width="48" Height="21" Background="RosyBrown"/>
+            <Canvas Width="279" Height="58.424" Canvas.Left="19" Canvas.Top="31.076">
+                <Canvas.Background>
+                    <ImageBrush ImageSource="Picture.png" Stretch="Uniform"/>
+                </Canvas.Background>
+            </Canvas>
+        </Canvas>
+        <Grid  VerticalAlignment="Bottom"  x:Name="gameField" Height="480" Width="480" Background="White" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+        </Grid>
+    </DockPanel>
+</Window>

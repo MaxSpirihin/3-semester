@@ -1,0 +1,10 @@
+d:\documents\visual studio 2010\Projects\Predator\Predator\bin\Debug\Predator.exe
+d:\documents\visual studio 2010\Projects\Predator\Predator\bin\Debug\Predator.pdb
+d:\documents\visual studio 2010\Projects\Predator\Predator\obj\x86\Debug\Predator.exe
+d:\documents\visual studio 2010\Projects\Predator\Predator\obj\x86\Debug\Predator.pdb
+d:\documents\visual studio 2010\Projects\Predator\Predator\obj\x86\Debug\Predator.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\Predator New\Predator\obj\x86\Debug\Predator.exe
+D:\Documents\Visual Studio 2010\Projects\Predator New\Predator\obj\x86\Debug\Predator.pdb
+D:\Documents\Visual Studio 2010\Projects\Predator New\Predator\bin\Debug\Predator.exe
+D:\Documents\Visual Studio 2010\Projects\Predator New\Predator\bin\Debug\Predator.pdb
+D:\Documents\Visual Studio 2010\Projects\Predator New\Predator\obj\x86\Debug\Predator.csprojResolveAssemblyReference.cache

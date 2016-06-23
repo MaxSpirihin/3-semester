@@ -1,0 +1,4 @@
+d:\documents\visual studio 2010\Projects\Parket\Parket\bin\Debug\Parket.exe
+d:\documents\visual studio 2010\Projects\Parket\Parket\bin\Debug\Parket.pdb
+d:\documents\visual studio 2010\Projects\Parket\Parket\obj\x86\Debug\Parket.exe
+d:\documents\visual studio 2010\Projects\Parket\Parket\obj\x86\Debug\Parket.pdb

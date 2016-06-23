@@ -1,0 +1,4 @@
+d:\documents\visual studio 2010\Projects\GraphStream\GraphStream\bin\Debug\GraphStream.exe
+d:\documents\visual studio 2010\Projects\GraphStream\GraphStream\bin\Debug\GraphStream.pdb
+d:\documents\visual studio 2010\Projects\GraphStream\GraphStream\obj\x86\Debug\GraphStream.exe
+d:\documents\visual studio 2010\Projects\GraphStream\GraphStream\obj\x86\Debug\GraphStream.pdb

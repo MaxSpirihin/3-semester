@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitiesAndWays", "CitiesAndWays\CitiesAndWays.csproj", "{1b4072c3-0515-40af-9abe-568c9b88270c}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B4072C3-0515-40AF-9ABE-568C9B88270C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4072C3-0515-40AF-9ABE-568C9B88270C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4072C3-0515-40AF-9ABE-568C9B88270C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4072C3-0515-40AF-9ABE-568C9B88270C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

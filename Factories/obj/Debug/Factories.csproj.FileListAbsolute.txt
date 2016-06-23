@@ -1,0 +1,22 @@
+H:\Factories\bin\Debug\Factories.exe
+H:\Factories\bin\Debug\Factories.pdb
+H:\Factories\obj\Debug\MainWindow.baml
+H:\Factories\obj\Debug\MainWindow.g.cs
+H:\Factories\obj\Debug\App.g.cs
+H:\Factories\obj\Debug\Factories_MarkupCompile.cache
+H:\Factories\obj\Debug\Factories.g.resources
+H:\Factories\obj\Debug\Factories.csproj.GenerateResource.Cache
+H:\Factories\obj\Debug\Factories.exe
+H:\Factories\obj\Debug\Factories.pdb
+H:\Factories\obj\Debug\Factorie.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\Factories\obj\Debug\Factories.exe
+d:\documents\visual studio 2010\Projects\Factories\obj\Debug\Factories.pdb
+d:\documents\visual studio 2010\Projects\Factories\bin\Debug\Factories.exe
+d:\documents\visual studio 2010\Projects\Factories\bin\Debug\Factories.pdb
+d:\documents\visual studio 2010\Projects\Factories\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2010\Projects\Factories\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2010\Projects\Factories\obj\Debug\App.g.cs
+d:\documents\visual studio 2010\Projects\Factories\obj\Debug\Factories_MarkupCompile.cache
+d:\documents\visual studio 2010\Projects\Factories\obj\Debug\Factories.g.resources
+d:\documents\visual studio 2010\Projects\Factories\obj\Debug\Factorie.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\Factories\obj\Debug\Factories.csproj.GenerateResource.Cache

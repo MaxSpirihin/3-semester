@@ -1,0 +1,47 @@
+D:\DamnedEvening\Reversi\bin\Release\Reversi.exe
+D:\DamnedEvening\Reversi\bin\Release\Reversi.pdb
+D:\DamnedEvening\Reversi\obj\Release\MainWindow.baml
+D:\DamnedEvening\Reversi\obj\Release\MainWindow.g.cs
+D:\DamnedEvening\Reversi\obj\Release\App.g.cs
+D:\DamnedEvening\Reversi\obj\Release\Reversi_MarkupCompile.cache
+D:\DamnedEvening\Reversi\obj\Release\Reversi.g.resources
+D:\DamnedEvening\Reversi\obj\Release\Reversi.Properties.Resources.resources
+D:\DamnedEvening\Reversi\obj\Release\Reversi.csproj.GenerateResource.Cache
+D:\DamnedEvening\Reversi\obj\Release\Reversi.exe
+D:\DamnedEvening\Reversi\obj\Release\Reversi.pdb
+H:\Reversi\bin\Release\Reversi.exe
+H:\Reversi\bin\Release\Reversi.pdb
+H:\Reversi\obj\Release\MainWindow.baml
+H:\Reversi\obj\Release\MainWindow.g.cs
+H:\Reversi\obj\Release\App.g.cs
+H:\Reversi\obj\Release\Reversi_MarkupCompile.cache
+H:\Reversi\obj\Release\Reversi.g.resources
+H:\Reversi\obj\Release\Reversi.Properties.Resources.resources
+H:\Reversi\obj\Release\Reversi.csproj.GenerateResource.Cache
+H:\Reversi\obj\Release\Reversi.exe
+H:\Reversi\obj\Release\Reversi.pdb
+H:\Reversi\obj\Release\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\ReversiCurrent\obj\Release\Reversi.exe
+C:\Users\Dima\Desktop\ReversiCurrent\obj\Release\Reversi.pdb
+C:\Users\Dima\Desktop\ReversiCurrent\bin\Release\Reversi.exe
+C:\Users\Dima\Desktop\ReversiCurrent\bin\Release\Reversi.pdb
+C:\Users\Dima\Desktop\ReversiCurrent\obj\Release\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\ReversiCurrent\obj\Release\MainWindow.baml
+C:\Users\Dima\Desktop\ReversiCurrent\obj\Release\MainWindow.g.cs
+C:\Users\Dima\Desktop\ReversiCurrent\obj\Release\App.g.cs
+C:\Users\Dima\Desktop\ReversiCurrent\obj\Release\Reversi_MarkupCompile.cache
+C:\Users\Dima\Desktop\ReversiCurrent\obj\Release\Reversi.g.resources
+C:\Users\Dima\Desktop\ReversiCurrent\obj\Release\Reversi.Properties.Resources.resources
+C:\Users\Dima\Desktop\ReversiCurrent\obj\Release\Reversi.csproj.GenerateResource.Cache
+D:\IMPORTANT\Complete Projects\GoodLabs\Reversi\obj\Release\Reversi.exe
+D:\IMPORTANT\Complete Projects\GoodLabs\Reversi\obj\Release\Reversi.pdb
+D:\IMPORTANT\Complete Projects\GoodLabs\Reversi\bin\Release\Reversi.exe
+D:\IMPORTANT\Complete Projects\GoodLabs\Reversi\bin\Release\Reversi.pdb
+D:\IMPORTANT\Complete Projects\GoodLabs\Reversi\obj\Release\Reversi.csprojResolveAssemblyReference.cache
+D:\IMPORTANT\Complete Projects\GoodLabs\Reversi\obj\Release\MainWindow.baml
+D:\IMPORTANT\Complete Projects\GoodLabs\Reversi\obj\Release\MainWindow.g.cs
+D:\IMPORTANT\Complete Projects\GoodLabs\Reversi\obj\Release\App.g.cs
+D:\IMPORTANT\Complete Projects\GoodLabs\Reversi\obj\Release\Reversi_MarkupCompile.cache
+D:\IMPORTANT\Complete Projects\GoodLabs\Reversi\obj\Release\Reversi.g.resources
+D:\IMPORTANT\Complete Projects\GoodLabs\Reversi\obj\Release\Reversi.Properties.Resources.resources
+D:\IMPORTANT\Complete Projects\GoodLabs\Reversi\obj\Release\Reversi.csproj.GenerateResource.Cache
